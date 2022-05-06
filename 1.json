@@ -1,0 +1,10 @@
+{
+  "name": "Muku-tori",
+  "description": "Muku-tori NFT",
+  "image": "https://github.com/zen7676/NFT_deploy_test/blob/main/image/1.jpg",
+  "attributes": [
+      {
+          "value":10
+      }
+  ]
+}
